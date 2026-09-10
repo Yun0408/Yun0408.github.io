@@ -1,3 +1,2 @@
- title：My Blog
-  theme：minima
-  timezone：Asia/Beijing
+
+
