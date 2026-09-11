@@ -4,7 +4,7 @@ title: "Bugku CTF Writeup-计算器"
 day: 2026-09-11
 ---
 #Bugku CTF Writeup-计算器"
-##题目类型
+<br>##题目类型
 <br>WEB
 <br>##题目描述
 <br>题目首先会给出一个两位数的运算，但验证框的答案只能输入一个字母
