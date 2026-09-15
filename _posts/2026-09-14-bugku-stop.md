@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BugKu CTF Writeup-alert"
+title: "BugKu CTF Writeup-你必须让他停下"
 date: 2026-09-12
 ---
 #BugKu CTF Writeup-你必须让他停下
