@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Bugku CTF Writeup - 你必须让他停下"
-date: 2026-09-12
+title: "BugKu CTF Writeup-计算器"
+date: 2026-09-10
+categories: CTF
+tags: [BugKu, Web, 签到题]
 ---
 
-# Bugku CTF Writeup - 你必须让他停下
+# BugKu CTF Writeup-计算器
+
 ## 题目类型
+
 WEB
 
 ## 题目描述
