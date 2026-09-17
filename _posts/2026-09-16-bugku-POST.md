@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BugKu CTF Writeup-"
-date: 2026-
+date: 2026-09-16
 categories: CTF
 ---
 
