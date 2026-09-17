@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "BugKu CTF Writeup-"
+title: "BugKu CTF Writeup-POST"
 date: 2026-09-16
 categories: CTF
 ---
 
-# BugKu CTF Writeup-
+# BugKu CTF Writeup-POST
 
 ## 题目类型
 
