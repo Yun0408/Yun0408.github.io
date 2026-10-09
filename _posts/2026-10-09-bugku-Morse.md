@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "BugKu CTF Writeup-Morse code"
+title: "BugKu CTF Writeup-/.-"
 date: 2026-10-09
 categories: Crypto
 ---
 
-# BugKu CTF Writeup-Morse code
+# BugKu CTF Writeup-/.-
 
 ## 题目类型
 
