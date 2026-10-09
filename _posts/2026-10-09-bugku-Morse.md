@@ -2,7 +2,7 @@
 layout: post
 title: "BugKu CTF Writeup-/.-"
 date: 2026-10-09
-categories: Crypto
+categories: CTF
 ---
 
 # BugKu CTF Writeup-/.-
